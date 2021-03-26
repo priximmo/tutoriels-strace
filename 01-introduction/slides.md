@@ -1,4 +1,4 @@
-%title: ANSIBLE
+%title: STRACE
 %author: xavki
 %blog: [Xavki Blog](https://xavki.blog)
 
