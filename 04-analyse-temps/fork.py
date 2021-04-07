@@ -29,7 +29,7 @@ def child():
 
 def parent():
    while True:
-      time.sleep(5)
+      time.sleep(3)
       newpid = os.fork()
       if newpid == 0:
          child()

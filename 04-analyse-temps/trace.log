@@ -1,0 +1,21 @@
+strace: Process 5387 attached
+21:20:31 select(0, NULL, NULL, NULL, {tv_sec=4, tv_usec=829343}) = 0 (Timeout)
+21:20:36 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLDstrace: Process 5607 attached
+, child_tidptr=0x7f5656bfea10) = 5607
+[pid  5607] 21:20:36 set_robust_list(0x7f5656bfea20, 24) = 0
+[pid  5387] 21:20:36 wait4(-1,  <unfinished ...>
+[pid  5607] 21:20:36 select(0, NULL, NULL, NULL, {tv_sec=2, tv_usec=0}) = 0 (Timeout)
+[pid  5607] 21:20:38 getpid()           = 5607
+[pid  5607] 21:20:38 write(1, "\n5607 : Hello Xavki !!", 22) = 22
+[pid  5607] 21:20:38 write(1, "\n", 1)  = 1
+[pid  5607] 21:20:38 rt_sigaction(SIGTERM, {sa_handler=0x627d00, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f5656e10210}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+[pid  5607] 21:20:38 exit_group(1)      = ?
+[pid  5607] 21:20:38 +++ exited with 1 +++
+21:20:38 <... wait4 resumed>[{WIFEXITED(s) && WEXITSTATUS(s) == 1}], 0, NULL) = 5607
+21:20:38 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=5607, si_uid=1000, si_status=1, si_utime=0, si_stime=0} ---
+21:20:38 getpid()                       = 5387
+21:20:38 write(1, "parent: 5387, child: 5607\n", 26) = 26
+21:20:38 write(1, "\n", 1)              = 1
+21:20:38 write(1, "Pid 5607 : status 256\n", 22) = 22
+21:20:38 select(0, NULL, NULL, NULL, {tv_sec=3, tv_usec=0}) = 0 (Timeout)
+21:20:41 select(0, NULL, NULL, NULL, {tv_sec=5, tv_usec=0}

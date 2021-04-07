@@ -1,2 +1,8 @@
 https://www.usenix.org/legacy/events/usenix99/full_papers/banga/banga_html/node3.html
 https://stackoverflow.com/questions/14544621/why-is-select-used-in-linux
+
+http://www.linuxintro.org/wiki/Strace:_what_a_process_does
+
+https://explainshell.com/explain?cmd=strace.1%20-d%20trace%3Dfile%20-f%20-p%204875%20%7C%20grep%20fopen%20%7C%20debugperl.1%20-nle%20%27%24_%3D~s/%5C%7B%5C%22%5B.*%5D%5C%22%5C%5D/%5C1/G%27%20%7C%20xargs%20find%20/%20-exec%20touch%20%7B%7D%20%5C%3B
+
+
