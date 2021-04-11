@@ -5,4 +5,17 @@ http://www.linuxintro.org/wiki/Strace:_what_a_process_does
 
 https://explainshell.com/explain?cmd=strace.1%20-d%20trace%3Dfile%20-f%20-p%204875%20%7C%20grep%20fopen%20%7C%20debugperl.1%20-nle%20%27%24_%3D~s/%5C%7B%5C%22%5B.*%5D%5C%22%5C%5D/%5C1/G%27%20%7C%20xargs%20find%20/%20-exec%20touch%20%7B%7D%20%5C%3B
 
+-e trace=network         Trace tous les appels systèmes de type réseau.
+-e trace=signal             Trace tous les appels systèmes de type signal.
+-e trace=ipc                   Trace tous les appels systèmes IPC.
+-e trace=desc               Trace tous les appels systèmes liés aux descripteurs.
+-e trace=set                  Trace tous les appels systèmes SET
+-e trace=memory        Trace tous les appels systèmes liés à la mémoire. 
 
+http://david.decotigny.free.fr/libre/linux-mag-hs-16/lmhs-strace/main.html
+
+https://ma.ttias.be/linux-application-script-debugging-with-strace/
+
+http://hokstad.com/5-simple-ways-to-troubleshoot-using-strace
+
+brk() is how malloc expands its available memory pool. This means it that the kernel could be swapping or playing memory shell games to find a large enough new memory segment to hand back, so performance is... unpredictable. That said, you might want to look at some of the memory-use tunables (sysctl -a | grep ^vm should give you a good place to start looking) to change your memory allocation strategy some.

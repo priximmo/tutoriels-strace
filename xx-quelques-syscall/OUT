@@ -1,0 +1,482 @@
+9715  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libtinfo.so.6", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libdl.so.2", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/dev/tty", O_RDWR|O_NONBLOCK) = 3
+9715  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/nsswitch.conf", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libnss_files.so.2", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/etc/passwd", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/lib/terminfo/x/xterm-256color", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/bash.bashrc", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/01-locale-fix.sh", O_RDONLY) = 3
+9716  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9716  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9716  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9716  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9716, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9715  openat(AT_FDCWD, "/etc/profile.d/apps-bin-path.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/bash_completion.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/usr/share/bash-completion/bash_completion", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/init.d/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9715  openat(AT_FDCWD, "/etc/bash_completion.d/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9715  openat(AT_FDCWD, "/etc/bash_completion.d/apport_completion", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/bash_completion.d/git-prompt", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/usr/lib/git-core/git-sh-prompt", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/cedilla-portuguese.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/gawk.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/im-config_wayland.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/libvirt-uri.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/vte-2.91.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/profile.d/xdg_dirs_desktop_session.sh", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/home/oki/.bash_profile", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/home/oki/.bash_login", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/home/oki/.profile", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/home/oki/.bashrc", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/home/oki/.bash_history", O_RDONLY) = 3
+9717  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9717  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9717  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libtinfo.so.6", O_RDONLY|O_CLOEXEC) = 3
+9717  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9717  openat(AT_FDCWD, "/lib/terminfo/x/xterm-256color", O_RDONLY) = 3
+9717  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9717, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9718  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9718  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9718  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre2-8.so.0", O_RDONLY|O_CLOEXEC) = 3
+9718  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9718  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9718  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9718  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9718  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9718  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9718  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9718, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9719  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9719  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9719  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9719  openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 3
+9719  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9719, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9715  openat(AT_FDCWD, "/usr/share/bash-completion/bash_completion", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/init.d/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9715  openat(AT_FDCWD, "/etc/bash_completion.d/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9715  openat(AT_FDCWD, "/etc/bash_completion.d/apport_completion", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/bash_completion.d/git-prompt", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/usr/lib/git-core/git-sh-prompt", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9720  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9720  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9720  openat(AT_FDCWD, "/etc/nsswitch.conf", O_RDONLY|O_CLOEXEC) = 3
+9720  openat(AT_FDCWD, "/etc/host.conf", O_RDONLY|O_CLOEXEC) = 3
+9720  openat(AT_FDCWD, "/etc/resolv.conf", O_RDONLY|O_CLOEXEC) = 3
+9720  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9720  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libnss_files.so.2", O_RDONLY|O_CLOEXEC) = 3
+9720  openat(AT_FDCWD, "/etc/hosts", O_RDONLY|O_CLOEXEC) = 3
+9720  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9720, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9722  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9723  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9723  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre.so.3", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9723  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libdl.so.2", O_RDONLY|O_CLOEXEC <unfinished ...>
+9722  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC <unfinished ...>
+9723  <... openat resumed>)             = 3
+9722  <... openat resumed>)             = 3
+9723  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9723  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libdl.so.2", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libutil.so.1", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libm.so.6", O_RDONLY|O_CLOEXEC) = 3
+9723  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC <unfinished ...>
+9722  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libexpat.so.1", O_RDONLY|O_CLOEXEC <unfinished ...>
+9723  <... openat resumed>)             = 3
+9722  <... openat resumed>)             = 3
+9723  openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 3
+9722  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9723  openat(AT_FDCWD, "/usr/share/locale/locale.alias", O_RDONLY|O_CLOEXEC) = 3
+9723  openat(AT_FDCWD, "/usr/share/locale/en_US.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale/en_US.utf8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale/en_US/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale/en.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale/en.utf8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale/en/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale-langpack/en.utf8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9723  openat(AT_FDCWD, "/usr/share/locale-langpack/en/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9722  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 3
+9722  openat(AT_FDCWD, "/usr/bin/pyvenv.cfg", O_RDONLY) = -1 ENOENT (No such file or directory)
+9722  openat(AT_FDCWD, "/usr/pyvenv.cfg", O_RDONLY) = -1 ENOENT (No such file or directory)
+9722  openat(AT_FDCWD, "/etc/localtime", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/encodings/__pycache__/__init__.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/codecs.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/encodings", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/encodings/__pycache__/aliases.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/encodings/__pycache__/utf_8.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/encodings/__pycache__/latin_1.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/io.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/abc.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/site.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/os.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/stat.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/_collections_abc.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/posixpath.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/genericpath.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/_sitebuiltins.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/local/lib/python3.8/dist-packages", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3/dist-packages", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/sitecustomize.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/lib-dynload", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/local/lib/python3.8/dist-packages", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3/dist-packages", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3/dist-packages/__pycache__/apport_python_hook.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/bin/lsb_release", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/bin/lsb_release", O_RDONLY) = 3
+9722  openat(AT_FDCWD, "/usr/bin", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/optparse.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/textwrap.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/re.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/enum.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/types.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/sre_compile.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/sre_parse.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/sre_constants.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/functools.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/collections/__pycache__/__init__.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/operator.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/keyword.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/heapq.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/reprlib.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/copyreg.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/gettext.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/locale.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3/dist-packages/__pycache__/lsb_release.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/__future__.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/subprocess.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/signal.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/threading.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/_weakrefset.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/warnings.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/contextlib.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/selectors.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/collections", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/collections/__pycache__/abc.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/csv.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/share/distro-info/debian.csv", O_RDONLY|O_CLOEXEC) = 3
+9722  openat(AT_FDCWD, "/usr/lib/python3.8/__pycache__/_bootlocale.cpython-38.pyc", O_RDONLY|O_CLOEXEC) = 4
+9722  openat(AT_FDCWD, "/usr/lib/os-release", O_RDONLY|O_CLOEXEC) = 3
+9724  openat(AT_FDCWD, "/proc/self/fd", O_RDONLY|O_CLOEXEC) = 3
+9724  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9724  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9724  openat(AT_FDCWD, "/var/lib/dpkg/arch", O_RDONLY) = 3
+9724  openat(AT_FDCWD, "/var/lib/dpkg/status", O_RDONLY) = 3
+9724  openat(AT_FDCWD, "/var/lib/dpkg/updates/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9724  openat(AT_FDCWD, "/var/lib/dpkg/triggers/File", O_RDONLY) = 3
+9724  openat(AT_FDCWD, "/var/lib/dpkg/triggers/Unincorp", O_RDONLY) = 3
+9724  +++ exited with 1 +++
+9722  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9724, si_uid=1000, si_status=1, si_utime=2, si_stime=0} ---
+9722  +++ exited with 0 +++
+9723  +++ exited with 0 +++
+9721  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9722, si_uid=1000, si_status=0, si_utime=4, si_stime=1} ---
+9721  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9721, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9725  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libprocps.so.8", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libsystemd.so.0", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libdl.so.2", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/librt.so.1", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/liblzma.so.5", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/liblz4.so.1", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libgcrypt.so.20", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libgpg-error.so.0", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/proc/self/auxv", O_RDONLY) = 3
+9725  openat(AT_FDCWD, "/proc/sys/kernel/osrelease", O_RDONLY) = 3
+9725  openat(AT_FDCWD, "/sys/devices/system/cpu/online", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/proc/self/auxv", O_RDONLY) = 3
+9725  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/etc/localtime", O_RDONLY|O_CLOEXEC) = 3
+9725  openat(AT_FDCWD, "/proc/uptime", O_RDONLY) = 3
+9725  openat(AT_FDCWD, "/var/run/utmp", O_RDONLY|O_CLOEXEC) = 4
+9725  openat(AT_FDCWD, "/proc/loadavg", O_RDONLY) = 4
+9725  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9725, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9727  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9727  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libsigsegv.so.2", O_RDONLY|O_CLOEXEC) = 3
+9729  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libreadline.so.8", O_RDONLY|O_CLOEXEC) = 3
+9729  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libmpfr.so.6", O_RDONLY|O_CLOEXEC) = 3
+9729  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9727  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC <unfinished ...>
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libgmp.so.10", O_RDONLY|O_CLOEXEC <unfinished ...>
+9727  <... openat resumed>)             = 3
+9728  <... openat resumed>)             = 3
+9727  openat(AT_FDCWD, "/var/run/utmp", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libdl.so.2", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libm.so.6", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9729  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libtinfo.so.6", O_RDONLY|O_CLOEXEC) = 3
+9727  openat(AT_FDCWD, "/etc/localtime", O_RDONLY|O_CLOEXEC) = 3
+9727  +++ exited with 0 +++
+9728  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9728  openat(AT_FDCWD, "/proc/self/maps", O_RDONLY) = 3
+9728  openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 3
+9728  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9728  +++ exited with 0 +++
+9729  +++ exited with 0 +++
+9726  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9727, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9726  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9726, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9730  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libprocps.so.8", O_RDONLY|O_CLOEXEC <unfinished ...>
+9731  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC <unfinished ...>
+9730  <... openat resumed>)             = 3
+9731  <... openat resumed>)             = 3
+9731  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libsystemd.so.0", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libdl.so.2", O_RDONLY|O_CLOEXEC) = 3
+9731  openat(AT_FDCWD, "/usr/bin/egrep", O_RDONLY) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/librt.so.1", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/liblzma.so.5", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/liblz4.so.1", O_RDONLY|O_CLOEXEC) = 3
+9731  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libgcrypt.so.20", O_RDONLY|O_CLOEXEC <unfinished ...>
+9731  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre.so.3", O_RDONLY|O_CLOEXEC <unfinished ...>
+9730  <... openat resumed>)             = 3
+9731  <... openat resumed>)             = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC <unfinished ...>
+9731  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libdl.so.2", O_RDONLY|O_CLOEXEC <unfinished ...>
+9730  <... openat resumed>)             = 3
+9731  <... openat resumed>)             = 3
+9731  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libgpg-error.so.0", O_RDONLY|O_CLOEXEC) = 3
+9731  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9731  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/proc/self/auxv", O_RDONLY) = 3
+9731  openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 3
+9730  openat(AT_FDCWD, "/proc/sys/kernel/osrelease", O_RDONLY) = 3
+9731  openat(AT_FDCWD, "/usr/share/locale/locale.alias", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/sys/devices/system/cpu/online", O_RDONLY|O_CLOEXEC) = 3
+9730  openat(AT_FDCWD, "/proc/self/auxv", O_RDONLY <unfinished ...>
+9731  openat(AT_FDCWD, "/usr/share/locale/en_US.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY <unfinished ...>
+9730  <... openat resumed>)             = 3
+9731  <... openat resumed>)             = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale/en_US.utf8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale/en_US/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale/en.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC <unfinished ...>
+9731  openat(AT_FDCWD, "/usr/share/locale/en.utf8/LC_MESSAGES/grep.mo", O_RDONLY <unfinished ...>
+9730  <... openat resumed>)             = 3
+9731  <... openat resumed>)             = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale/en/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/proc/sys/kernel/osrelease", O_RDONLY <unfinished ...>
+9731  openat(AT_FDCWD, "/usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/grep.mo", O_RDONLY <unfinished ...>
+9730  <... openat resumed>)             = 3
+9731  <... openat resumed>)             = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale-langpack/en.utf8/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9731  openat(AT_FDCWD, "/usr/share/locale-langpack/en/LC_MESSAGES/grep.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/proc/meminfo", O_RDONLY) = 3
+9730  openat(AT_FDCWD, "/usr/share/locale/locale.alias", O_RDONLY|O_CLOEXEC) = 4
+9730  openat(AT_FDCWD, "/usr/share/locale/en_US.UTF-8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale/en_US.utf8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale/en_US/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale/en.UTF-8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale/en.utf8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale/en/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale-langpack/en.utf8/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  openat(AT_FDCWD, "/usr/share/locale-langpack/en/LC_MESSAGES/procps-ng.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9730  +++ exited with 0 +++
+9731  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9730, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9715  openat(AT_FDCWD, "/home/oki/.bash_history", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/home/oki/.bash_history", O_RDONLY) = 3
+9732  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9732  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9732  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9732, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9735  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9735  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9735  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre2-8.so.0", O_RDONLY|O_CLOEXEC) = 3
+9735  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9735  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9735  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9735  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9735  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9735  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9735  openat(AT_FDCWD, "/home/oki/gitlab.com/strace/.git/HEAD", O_RDONLY) = 3
+9735  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9735  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9735  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9735  openat(AT_FDCWD, ".git/HEAD", O_RDONLY) = 3
+9735  openat(AT_FDCWD, ".git/refs/heads/master", O_RDONLY) = 3
+9735  openat(AT_FDCWD, ".git/packed-refs", O_RDONLY) = 3
+9735  openat(AT_FDCWD, ".git/objects/info/alternates", O_RDONLY) = -1 ENOENT (No such file or directory)
+9735  openat(AT_FDCWD, ".git/objects/pack", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9735  openat(AT_FDCWD, ".git/objects/pack/pack-8c0c24668635126bbd28d9bd7589166d9172a0c0.idx", O_RDONLY|O_CLOEXEC) = 3
+9735  openat(AT_FDCWD, ".git/objects/cf", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9735  +++ exited with 0 +++
+9734  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9735, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9734  +++ exited with 0 +++
+9733  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9734, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9733  openat(AT_FDCWD, "/home/oki/gitlab.com/strace/.git/HEAD", O_RDONLY) = 3
+9736  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9736  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre2-8.so.0", O_RDONLY|O_CLOEXEC) = 3
+9736  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9736  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9736  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9736  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9736  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9736  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9736  openat(AT_FDCWD, "/home/oki/gitlab.com/strace/.git/HEAD", O_RDONLY) = 3
+9736  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9736  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9736  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9736  +++ exited with 1 +++
+9733  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9736, si_uid=1000, si_status=1, si_utime=0, si_stime=0} ---
+9737  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9737  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre2-8.so.0", O_RDONLY|O_CLOEXEC) = 3
+9737  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9737  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9737  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9737  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9737  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9737  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9737  openat(AT_FDCWD, "/home/oki/gitlab.com/strace/.git/HEAD", O_RDONLY) = 3
+9737  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9737  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9737  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9737  openat(AT_FDCWD, ".git/index", O_RDONLY) = 3
+9737  +++ exited with 1 +++
+9733  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9737, si_uid=1000, si_status=1, si_utime=0, si_stime=0} ---
+9738  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre2-8.so.0", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9738  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9738  openat(AT_FDCWD, "/home/oki/gitlab.com/strace/.git/HEAD", O_RDONLY) = 3
+9738  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9738  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9738  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9738  openat(AT_FDCWD, ".git/HEAD", O_RDONLY) = 3
+9738  openat(AT_FDCWD, ".git/refs/heads/master", O_RDONLY) = 3
+9738  openat(AT_FDCWD, ".git/packed-refs", O_RDONLY) = 3
+9738  openat(AT_FDCWD, ".git/refs/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9738  openat(AT_FDCWD, ".git/objects/info/alternates", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, ".git/objects/pack", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9738  openat(AT_FDCWD, ".git/objects/pack/pack-8c0c24668635126bbd28d9bd7589166d9172a0c0.idx", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, ".git/objects/cf/ce7beaf2a9592e643f33d36b57d586ebd9de83", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, ".git/objects/cf/ce7beaf2a9592e643f33d36b57d586ebd9de83", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, ".git/info/grafts", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, ".git/shallow", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, ".git/objects/info/commit-graph", O_RDONLY|O_CLOEXEC) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, ".git/objects/info/commit-graphs/commit-graph-chain", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, ".git/index", O_RDONLY) = 3
+9738  openat(AT_FDCWD, ".git/objects/b3/a3c7e349d19cb8c48391e3e2a66bcd6a5edb3f", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/usr/share/locale/locale.alias", O_RDONLY|O_CLOEXEC) = 3
+9738  openat(AT_FDCWD, "/usr/share/locale/en_US.UTF-8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale/en_US.utf8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale/en_US/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale/en.UTF-8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale/en.utf8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale/en/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale-langpack/en.utf8/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  openat(AT_FDCWD, "/usr/share/locale-langpack/en/LC_MESSAGES/git.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9738  +++ exited with 0 +++
+9733  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9738, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9739  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9739  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre2-8.so.0", O_RDONLY|O_CLOEXEC) = 3
+9739  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9739  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9739  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9739  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9739  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9739  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9739  openat(AT_FDCWD, "/home/oki/gitlab.com/strace/.git/HEAD", O_RDONLY) = 3
+9739  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9739  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9739  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9739  +++ exited with 1 +++
+9733  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9739, si_uid=1000, si_status=1, si_utime=0, si_stime=0} ---
+9740  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9740  openat(AT_FDCWD, "/dev/null", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 3
+9740  openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+9740  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpcre2-8.so.0", O_RDONLY|O_CLOEXEC) = 3
+9740  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libz.so.1", O_RDONLY|O_CLOEXEC) = 3
+9740  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+9740  openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+9740  openat(AT_FDCWD, "/dev/null", O_RDWR) = 3
+9740  openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+9740  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9740  openat(AT_FDCWD, "/home/oki/gitlab.com/strace/.git/HEAD", O_RDONLY) = 3
+9740  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9740  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9740  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9740  openat(AT_FDCWD, "/home/oki/.gitconfig", O_RDONLY) = 3
+9740  openat(AT_FDCWD, ".git/config", O_RDONLY) = 3
+9740  openat(AT_FDCWD, ".git/index", O_RDONLY) = 3
+9740  openat(AT_FDCWD, ".git/info/exclude", O_RDONLY) = 3
+9740  openat(AT_FDCWD, ".", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 3
+9740  openat(AT_FDCWD, ".gitignore", O_RDONLY) = -1 ENOENT (No such file or directory)
+9740  openat(AT_FDCWD, "02-premieres-options/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 4
+9740  openat(AT_FDCWD, "01-introduction/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 4
+9740  openat(AT_FDCWD, "x-ssh-password/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 4
+9740  openat(AT_FDCWD, "x-ssh-password/.gitignore", O_RDONLY) = -1 ENOENT (No such file or directory)
+9740  openat(AT_FDCWD, "04-analyse-temps/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 4
+9740  openat(AT_FDCWD, "x-alias-ls/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 4
+9740  openat(AT_FDCWD, "x-alias-ls/.gitignore", O_RDONLY) = -1 ENOENT (No such file or directory)
+9740  openat(AT_FDCWD, "05-quelques-syscall/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 4
+9740  openat(AT_FDCWD, "05-quelques-syscall/.gitignore", O_RDONLY) = -1 ENOENT (No such file or directory)
+9740  openat(AT_FDCWD, "03-forks-option-f/", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 4
+9740  +++ exited with 0 +++
+9733  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9740, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9733  +++ exited with 0 +++
+9715  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=9733, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+9715  openat(AT_FDCWD, "/home/oki/.inputrc", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/etc/inputrc", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/usr/share/locale/locale.alias", O_RDONLY|O_CLOEXEC) = 3
+9715  openat(AT_FDCWD, "/usr/share/locale/en_US.UTF-8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale/en_US.utf8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale/en_US/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale/en.UTF-8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale/en.utf8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale/en/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale-langpack/en_US/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale-langpack/en.utf8/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/usr/share/locale-langpack/en/LC_MESSAGES/bash.mo", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  openat(AT_FDCWD, "/home/oki/.bash_logout", O_RDONLY) = 3
+9715  openat(AT_FDCWD, "/etc/bash.bash_logout", O_RDONLY) = -1 ENOENT (No such file or directory)
+9715  +++ exited with 0 +++
